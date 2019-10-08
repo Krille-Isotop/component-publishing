@@ -8,6 +8,10 @@ Introduktion till vad moduler i JavaScript är. Och historik över hur vi tidiga
 
 Praktisk guide till publicering av NPM-paket. Förklarar även en del koncept som är viktiga att känna till, tex. skillnaden på scoped och unscoped paket.
 
+## [Checklist for Writing Highly Reusable Components in React and Vue](https://hackernoon.com/checklist-for-writing-highly-reusable-components-in-react-and-vue-531f963864bd)
+
+En checklista för för att bygga generiska komponenter, lite API-design, patterns etc.
+
 ## [Why Lerna and Yarn Workspaces is a Perfect Match for Building Mono-Repos – A Close Look at Features and Performance](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/)
 
 En artikel som går igenom vad ett mono repo är, och hur man kan använda [Lerna](https://github.com/lerna/lerna) och [Yarn Workspaces](https://yarnpkg.com/lang/en/docs/workspaces/) tillsammans med [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/) för att få ett smidigt arbetsflöde med mono-repos.

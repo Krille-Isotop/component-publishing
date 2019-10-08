@@ -8,6 +8,10 @@ Introduktion till vad moduler i JavaScript är. Och historik över hur vi tidiga
 
 Praktisk guide till publicering av NPM-paket. Förklarar även en del koncept som är viktiga att känna till, tex. skillnaden på scoped och unscoped paket.
 
+## [Checklist for Writing Highly Reusable Components in React and Vue](https://hackernoon.com/checklist-for-writing-highly-reusable-components-in-react-and-vue-531f963864bd)
+
+En checklista för för att bygga generiska komponenter, lite API-design, patterns etc.
+
 # Verktyg
 
 ## [React Cosmos](https://github.com/react-cosmos/react-cosmos)

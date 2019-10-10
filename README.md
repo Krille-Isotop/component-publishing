@@ -33,3 +33,9 @@ En alternativ bundler till webpack.
 Tidigare har en generell regel varit att använda webpack för att bundla applikationer och rollup till moduler för publicering. Rollup togs fram just för att bundla fristående moduler för distrubution, och har därför varit fördelaktikt för att bygga komponentbibliotek och komponenter som ska återanvändas. Rollup har tex. implementerat tree shaking sedan länge för att ta fram så små moduler som möjligt. Nu har dock webpack respektive rollup kommit ikapp varandra, och båda är alternativ för att bundla komponenter. 
 
 [Här](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c) kan man läsa en gammal artikel om detta om man är intresserad av historiken. Rollup är ändå ett bra val av bundler för komponentbibliotek.
+
+## Testning
+
+[Testing Javascript with Kent C. Dodds](https://testingjavascript.com/)
+
+Javascript-testnings gurun sajt med många läsvärda artiklar.
